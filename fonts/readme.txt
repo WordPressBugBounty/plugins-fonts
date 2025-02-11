@@ -3,7 +3,7 @@ Contributors: wordpresssites
 Donate link: http://wpsites.net/donate-to-wp-sites/
 Tags: fonts,font plugin, editor fonts
 Requires at least: 3
-Tested up to: 6.0.1
+Tested up to: 6.7.1
 Stable tag: 5.8.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -25,7 +25,7 @@ New: You can also add your own selection of Google or Custom fonts including pre
 
 == Support ==
 
-New <a href="https://www.facebook.com/wpsites.net/messages/">Support - Start Live Chat</a>
+New <a href="https://wpsites.net/">Support</a>
 
 <p><strong>Premium Upgrades:</strong></p>
 <ul>

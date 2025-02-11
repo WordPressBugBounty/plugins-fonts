@@ -3,7 +3,7 @@
 Plugin Name: Fonts
 Plugin URI: http://wpsites.net/plugins/fonts/
 Description: Premium Upgrades: <a href="http://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/">Add Google Fonts</a> | <a href="http://wpsites.net/wordpress-themes/add-custom-fonts-to-the-wordpress-editor/">Add custom fonts</a> | <a href="https://www.facebook.com/wpsites.net/messages/">Support</a> | <a href="https://wordpress.org/support/plugin/fonts/reviews/?filter=5">Click here to leave a review</a>
-Version: 2.3
+Version: 2.4
 Author: Brad Dalton - WP Sites
 Author URI: http://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/
 License: GPL2

@@ -2,10 +2,10 @@
 Contributors: wordpresssites
 Donate link: http://wpsites.net/donate-to-wp-sites/
 Tags: fonts,font plugin, editor fonts
-Requires at least: 3
-Tested up to: 6.7.1
-Stable tag: 5.8.3
+Requires at least: 4.0
+Tested up to: 6.7
 License: GPLv2 or later
+Stable tag: 3.9.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add More Font Styles & Sizes To Your Visual Editor in WordPress
@@ -25,13 +25,13 @@ New: You can also add your own selection of Google or Custom fonts including pre
 
 == Support ==
 
-New <a href="https://wpsites.net/">Support</a>
+New <a href="https://wpsites.net/contact">Support</a>
 
 <p><strong>Premium Upgrades:</strong></p>
 <ul>
-<li>Add Google fonts http://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/</li>
+<li><a href="https://wpsites.net/product/custom-fonts-for-your-visual-editor-in-wordpress/">Custom Fonts</a></li>
 
-<li>Add custom fonts http://wpsites.net/wordpress-themes/add-custom-fonts-to-the-wordpress-editor/</li>
+<li><a href="https://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/">Google Fonts</a></li>
 </ul>
 
 

@@ -1,17 +1,62 @@
 <?php 
 /*
 Plugin Name: Fonts
-Plugin URI: http://wpsites.net/plugins/fonts/
-Description: Premium Upgrades: <a href="http://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/">Add Google Fonts</a> | <a href="http://wpsites.net/wordpress-themes/add-custom-fonts-to-the-wordpress-editor/">Add custom fonts</a> | <a href="https://www.facebook.com/wpsites.net/messages/">Support</a> | <a href="https://wordpress.org/support/plugin/fonts/reviews/?filter=5">Click here to leave a review</a>
-Version: 2.5
+Plugin URI: https://wpsites.net/best-plugins/plugin-fonts-styles-sizes-wordpress/
+Description: Premium Upgrades: <a href="http://wpsites.net/wordpress-themes/add-custom-fonts-to-the-wordpress-editor/">Add Google & Custom Fonts</a> | <a href="https://wordpress.org/support/plugin/fonts/reviews/?filter=5">Click here to leave a review</a>
+Version: 2.6
 Author: Brad Dalton - WP Sites
-Author URI: http://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/
+Author URI: https://wpsites.net/bradley-james-dalton-wordpress-developer/
 License: GPL2
 */
 
 if ( ! defined( 'ABSPATH' ) ) {
     die( 'Sorry, you are not allowed to access this page directly.' );
 }
+
+// Hook to add the admin menu
+add_action('admin_menu', 'premium_custom_fonts_menu');
+function premium_custom_fonts_menu() {
+    add_menu_page(
+        'Fonts', // Page title
+        'Fonts', // Menu title
+        'manage_options', // Capability
+        'custom-fonts', // Menu slug
+        'custom_fonts_page_content', // Callback function
+        'dashicons-editor-textcolor', // Icon
+        25 // Position
+    );
+}
+
+function custom_fonts_page_content() {
+    ?>
+    <div class="wrap">
+        <h1>How To Install Custom & Google Fonts</h1>
+        
+        <!-- Button -->
+
+		<p><a href="https://wpsites.net/product/custom-fonts-for-your-visual-editor-in-wordpress/">
+		Add Custom & Google Fonts
+		</a></p>
+		
+		 <!-- Paragraph -->
+        <p style="margin-top: 15px; font-size: 16px;">Works the same way for uploading Custom Font files or Google Font files.</p>
+          
+
+        <!-- Video -->
+        <video width="100%" height="auto" controls>
+            <source src="https://videos.files.wordpress.com/eJMPv6CQ/install-custom-fonts-wordpress-editor.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        
+        
+        <p><a href="https://wordpress.org/support/plugin/fonts/reviews/?filter=5">Click here to leave a review</a></p>
+        
+    </div>
+    <?php
+}
+
+
+
 
 function add_more_buttons($buttons) {
 $buttons[] = 'fontselect';

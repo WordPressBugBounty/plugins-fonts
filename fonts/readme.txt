@@ -1,7 +1,6 @@
 === Fonts ===
 Contributors: wordpresssites
-Donate link: http://wpsites.net/donate-to-wp-sites/
-Tags: fonts,font plugin, editor fonts
+Tags: fonts,font plugin, editor fonts, custom fonts, google fonts
 Requires at least: 4.0
 Tested up to: 6.7
 License: GPLv2 or later
@@ -10,10 +9,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add More Font Styles & Sizes To Your Visual Editor in WordPress
 
-== Gutenberg ==
-
-Works with the latest version of Gutenberg
-
 == Description ==
 
 This plugin adds 2 drop down menus to your visual editor with additional sizes and fonts:
@@ -21,19 +16,19 @@ This plugin adds 2 drop down menus to your visual editor with additional sizes a
 1. A button for Styles
 2. A button for Sizes
 
-New: You can also add your own selection of Google or Custom fonts including premium fonts, to your editor by purchasing a premium upgrade.
+New: You can also add your own selection of <a href="https://wpsites.net/product/custom-fonts-for-your-visual-editor-in-wordpress/">Google & Custom fonts</a> including premium fonts, to your editor by purchasing a premium upgrade.
+
+<p><strong>Premium Upgrades:</strong></p>
+<ul>
+<li><a href="https://wpsites.net/product/custom-fonts-for-your-visual-editor-in-wordpress/">Google & Custom Fonts</a></li>
+</ul>
 
 == Support ==
 
 New <a href="https://wpsites.net/contact">Support</a>
+== Gutenberg ==
 
-<p><strong>Premium Upgrades:</strong></p>
-<ul>
-<li><a href="https://wpsites.net/product/custom-fonts-for-your-visual-editor-in-wordpress/">Custom Fonts</a></li>
-
-<li><a href="https://wpsites.net/wordpress-admin/add-google-web-fonts-to-your-wordpress-editor/">Google Fonts</a></li>
-</ul>
-
+Works with the latest version of Gutenberg
 
 == Screenshots ==
 

@@ -3,7 +3,7 @@
 Plugin Name: Fonts
 Plugin URI: https://wpsites.net/best-plugins/plugin-fonts-styles-sizes-wordpress/
 Description: Premium Upgrades: <a href="http://wpsites.net/wordpress-themes/add-custom-fonts-to-the-wordpress-editor/">Add Google & Custom Fonts</a> | <a href="https://wordpress.org/support/plugin/fonts/reviews/?filter=5">Click here to leave a review</a>
-Version: 2.6
+Version: 2.7
 Author: Brad Dalton - WP Sites
 Author URI: https://wpsites.net/bradley-james-dalton-wordpress-developer/
 License: GPL2
@@ -34,28 +34,20 @@ function custom_fonts_page_content() {
         
         <!-- Button -->
 
-		<p><a href="https://wpsites.net/product/custom-fonts-for-your-visual-editor-in-wordpress/">
-		Add Custom & Google Fonts
+		<p><a class="button button-primary" href="https://wpsites.net/product/custom-fonts-for-your-visual-editor-in-wordpress/">
+		Get Custom & Google Fonts Extension
 		</a></p>
 		
 		 <!-- Paragraph -->
-        <p style="margin-top: 15px; font-size: 16px;">Works the same way for uploading Custom Font files or Google Font files.</p>
-          
-
-        <!-- Video -->
-        <video width="100%" height="auto" controls>
-            <source src="https://videos.files.wordpress.com/eJMPv6CQ/install-custom-fonts-wordpress-editor.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+        <p style="margin-top: 15px; font-size: 16px;">Works the same way for uploading Custom Fonts and Google Font files.</p>
+       
+        <?php echo '<iframe width="100%" height="600px" src="https://www.youtube.com/embed/8ERYNm_2oPI?si=MGe2b8kkPrdQ8lxc&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'; ?>
         
-        
-        <p><a href="https://wordpress.org/support/plugin/fonts/reviews/?filter=5">Click here to leave a review</a></p>
+        <p><a class="button button-primary" href="https://wordpress.org/support/plugin/fonts/reviews/?filter=5">Click here to leave a review</a></p>
         
     </div>
     <?php
 }
-
-
 
 
 function add_more_buttons($buttons) {

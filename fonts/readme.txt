@@ -23,6 +23,12 @@ New: You can also add your own selection of <a href="https://wpsites.net/product
 <li><a href="https://wpsites.net/product/custom-fonts-for-your-visual-editor-in-wordpress/">Google & Custom Fonts</a></li>
 </ul>
 
+== Video ==
+
+Shows you how to add Google & Custom Fonts
+
+https://youtu.be/8ERYNm_2oPI
+
 == Support ==
 
 New <a href="https://wpsites.net/contact">Support</a>

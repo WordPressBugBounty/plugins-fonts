@@ -3,7 +3,7 @@
 Plugin Name: Fonts
 Plugin URI: https://wpsites.net/best-plugins/plugin-fonts-styles-sizes-wordpress/
 Description: Premium Upgrades: <a href="http://wpsites.net/wordpress-themes/add-custom-fonts-to-the-wordpress-editor/">Add Google & Custom Fonts</a> | <a href="https://wordpress.org/support/plugin/fonts/reviews/?filter=5">Click here to leave a review</a>
-Version: 2.8
+Version: 2.9
 Author: Brad Dalton - WP Sites
 Author URI: https://wpsites.net/bradley-james-dalton-wordpress-developer/
 License: GPL2

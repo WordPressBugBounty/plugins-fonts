@@ -1,8 +1,8 @@
 === Fonts ===
-Contributors: wordpresssites
+Contributors: wordpresssites,braddalton
 Tags: fonts,font plugin, editor fonts, custom fonts, google fonts
 Requires at least: 4.0
-Tested up to: 6.8.2
+Tested up to: 6.8.3
 License: GPLv2 or later
 Stable tag: 3.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
